@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Cameron Ruch</h1>
 <h3 align="center">A passionate Full Stack developer from the US</h3>
 
+- 🌱 I’m currently learning Full Stack Web Development at BloomTech
+- 👀 I’m interested in all things coding
 - 🔭 I’m currently working on [Project Badger](https://github.com/CameronRuch/Project-Badger)
 
 <h3 align="left">Connect with me:</h3>
