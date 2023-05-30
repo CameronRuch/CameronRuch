@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cameron Ruch</h1>
-<h3 align="center">A passionate Full Stack developer from the US</h3>
+<h3 align="center">A passionate Full Stack developer from Houston, Texas</h3>
 
 - 🔭 I’m currently looking for job oppurtunities!
 - 🌱 I’m currently learning Rust!
